@@ -1,0 +1,8 @@
+BIRTHDAY WEBSITE - FIXED PACKAGE
+
+1. Open PowerShell in this folder.
+2. Run: npm install
+3. Run: npm run dev
+4. Open: http://localhost:3000
+
+This package keeps the original birthday website assets/design and includes the personalization + Change & Share flow.
